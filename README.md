@@ -2,7 +2,7 @@ Software Libre Con Cristina -- Repositorio de Documentos
 ====
 
 Software Libre Con Cristina pone aca a disposición de todos, bajo la
-licencia mensionada en el documento LICENCIA, los varios documentos
+licencia mencionada en el documento LICENCIA, los varios documentos
 que produce.
 
 Usar git con archivos odt
